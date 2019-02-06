@@ -1,5 +1,3 @@
-# ACR_SQL
-
 -- 1a
 -- SELECT a.first_name, a.last_name
 -- FROM actor a
